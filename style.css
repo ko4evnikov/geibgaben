@@ -1,0 +1,15 @@
+.footer-columns{
+  display: flex;
+}
+.footer-column{
+  flex: 50%;
+  margin: 20px
+}
+header, footer{
+  background-color: #F0F8FF;
+  padding: 10px
+}
+main{
+  padding: 10px;
+  background-color: #F0F8FF;
+}
